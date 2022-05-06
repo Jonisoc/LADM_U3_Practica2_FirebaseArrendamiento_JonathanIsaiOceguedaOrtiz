@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989031931807",
+    "project_id": "practica2unidad4jioo",
+    "storage_bucket": "practica2unidad4jioo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989031931807:android:3c6c0bc71c2970569fe7aa",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica2_firebasearrendamiento_jonathanisaioceguedaortiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989031931807-q3u6nu55oe2qevce6ec3e0gb4mbrq9o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWWh_Qhnn_KMyg_vljOrprQaPeVncsv7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989031931807-q3u6nu55oe2qevce6ec3e0gb4mbrq9o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

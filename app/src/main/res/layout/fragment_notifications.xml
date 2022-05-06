@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ui.notifications.NotificationsFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:text="INSTITUTO TECNOLOGICO DE TEPIC"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/tec"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#9C27B0"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:text="Laboratorio de aplicaciones de dispositivos moviles"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:text="Jonathan Isai Ocegueda Ortiz"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textStyle="bold"
+        android:text="ISC | 18401166"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:textAlignment="center"
+        android:textColor="#F44336"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:text="Mtro Sergio Benigno Castillo Valtierra"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:textAlignment="center"
+        android:textColor="#DF0808"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:text="#NoMeRepruebesBenigno"/>
+</LinearLayout>
